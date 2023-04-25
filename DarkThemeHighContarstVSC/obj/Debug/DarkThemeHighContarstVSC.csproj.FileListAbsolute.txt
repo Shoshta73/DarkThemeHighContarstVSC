@@ -1,0 +1,13 @@
+C:\Users\Borna\source\repos\DarkThemeHighContarstVSC\DarkThemeHighContarstVSC\bin\Debug\DarkThemeHighContrasVSC.pkgdef
+C:\Users\Borna\source\repos\DarkThemeHighContarstVSC\DarkThemeHighContarstVSC\bin\Debug\DarkThemeHighContarstVSC.vsix
+C:\Users\Borna\source\repos\DarkThemeHighContarstVSC\DarkThemeHighContarstVSC\bin\Debug\extension.vsixmanifest
+C:\Users\Borna\source\repos\DarkThemeHighContarstVSC\DarkThemeHighContarstVSC\obj\Debug\DarkThemeHighContarstVSC.csproj.AssemblyReference.cache
+C:\Users\Borna\source\repos\DarkThemeHighContarstVSC\DarkThemeHighContarstVSC\obj\Debug\_EmptyResource.resources
+C:\Users\Borna\source\repos\DarkThemeHighContarstVSC\DarkThemeHighContarstVSC\obj\Debug\DarkThemeHighContarstVSC.csproj.GenerateResource.cache
+C:\Users\Borna\source\repos\DarkThemeHighContarstVSC\DarkThemeHighContarstVSC\obj\Debug\DarkThemeHighContarstVSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borna\source\repos\DarkThemeHighContarstVSC\DarkThemeHighContarstVSC\obj\Debug\DarkThemeHighContarstVSC.csproj.CoreCompileInputs.cache
+C:\Users\Borna\source\repos\DarkThemeHighContarstVSC\DarkThemeHighContarstVSC\obj\Debug\DarkThemeHighContarstVSC.dll
+C:\Users\Borna\source\repos\DarkThemeHighContarstVSC\DarkThemeHighContarstVSC\obj\Debug\DarkThemeHighContarstVSC.pdb
+C:\Users\Borna\source\repos\DarkThemeHighContarstVSC\DarkThemeHighContarstVSC\obj\Debug\extension.vsixmanifest
+C:\Users\Borna\source\repos\DarkThemeHighContarstVSC\DarkThemeHighContarstVSC\obj\Debug\files.json
+C:\Users\Borna\source\repos\DarkThemeHighContarstVSC\DarkThemeHighContarstVSC\obj\Debug\createTemplateManifests.cache

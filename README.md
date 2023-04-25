@@ -1,0 +1,2 @@
+# DarkThemeHighContarstVSC
+ DarkTheme_HighContrast_FromVSC
